@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: cocho
+  author: chumbeque
+  status: 0
+  loan_date: 2020-09-12 14:35:28
+  return_date: 2020-09-12 14:35:28
+
+two:
+  title: corazon
+  author: edmundo de amisis
+  status: 1
+  loan_date: 2020-09-12 14:35:28
+  return_date: 2020-09-12 14:35:28
